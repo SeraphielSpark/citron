@@ -1,6 +1,4 @@
-# citron
-This is a JavaScript Query Assistance, containing over 20 utility functions to assist developer and make coding easy
-Citron UI Library Documentation
+Vision UI Library Documentation
 Version: 1.0
 Author: Michael
 Description: A lightweight, modular UI library that provides ready-to-use components and utilities for web projects, including dark mode, modals, toasts, accordions, sliders, chat assistants, notifications, and more.
@@ -213,4 +211,4 @@ sparkChatAssistant({
 
 
 Conclusion
-Citron UI Library provides a comprehensive set of modern, customizable components and utilities with built-in dark mode support. All components are modular, easy to use, and lightweight, making it ideal for rapid front-end development.
+Vision UI Library provides a comprehensive set of modern, customizable components and utilities with built-in dark mode support. All components are modular, easy to use, and lightweight, making it ideal for rapid front-end development.
